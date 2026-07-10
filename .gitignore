@@ -1,0 +1,7 @@
+/sifreler.txt
+/notlar.txt
+/osman/deneme.txt
+*.md
+*img*
+#bunu görürsen ekle
+!README.md 
